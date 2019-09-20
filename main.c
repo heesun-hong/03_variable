@@ -9,6 +9,7 @@ int main(int argc, char *argv[]) {
 	short y;
 	float z;
 	double a;
+	int m;
 	
 	printf("bytes of int : %d\n", sizeof(x));
 	printf("bytes of short : %d\n", sizeof(y));
